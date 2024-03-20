@@ -12,3 +12,5 @@
    - Colab code YoloV8.ipynb.
 ### 4. Step Use Model
    - Export Model to Use python.
+### 5. Silde FUll 
+   - CEI RAI PPT-Slide.zip
